@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![](assets/readme_pic.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
